@@ -1,0 +1,18 @@
+#EXTM3U #EXTINF:-1,beIN Sports 1 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_1_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_2_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_3_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_4_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 5 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_5_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 6 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_6_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 7 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_7_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 8 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_8_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,beIN Sports 9 HD
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_9_hd/tracks-v1a1/mono.ts.m3u8
